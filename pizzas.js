@@ -7,5 +7,5 @@ let pizzaJson = [
     {id:6, name:'Presunto', img:'images/pizza-presunto.png', price:[25.00, 35.00, 40.00], sizes:['320g', '530g', '860g'], description:'Molho de Tomate, Muçarela, Presunto e Orégano.'},
     {id:7, name:'Chocolate ao Leite com Morango', img:'images/pizza-brigadeiro.png', price:[20.00, 27.00, 35.00], sizes:['320', '530g', '860g'], description:'Muçarela, Creme de Leite, Brigadeiro e Morango.'},
     {id:8, name:'Banana com Canela', img:'images/pizza-banana-canela.png', price:[20.00, 27.00, 35.00], sizes:['320g', '530g', '860g'], description:'Muçarela, Banana, Canela e Açúcar.'},
-    {id:9, name:'Chocolate', img:'images/pizza-romeu-julieta.png', price:[20.00, 27.00, 35.00], sizes:['320', '530g', '860g'], description:'Muçarela, Goibada e Catupiry'},
+    {id:9, name:'Romeu & Julieta', img:'images/pizza-romeu-julieta.png', price:[20.00, 27.00, 35.00], sizes:['320', '530g', '860g'], description:'Muçarela, Goibada e Catupiry'},
 ];
